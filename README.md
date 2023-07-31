@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Giando95
+- 👋 Hi, I’m @gmastrantoni
 - 👀 I’m interested in geohazards analysis
 - 🌱 I’m currently learning machine learning for geospatial data
-- 💞️ I’m looking to collaborate on development of multi-platform data integration techniques
+- 💞️ I’m looking to collaborate on the development of multi-platform data integration techniques
 - 📫 How to reach me: giandomenico.mastrantoni@uniroma1.it
 
 <!---
