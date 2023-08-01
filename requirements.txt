@@ -1,0 +1,14 @@
+pandas
+geopandas
+shapely
+numpy
+seaborn
+matplotlib
+mpl_toolkits
+contextily
+rasterio
+rasterstats
+os
+random
+math
+mapclassify
