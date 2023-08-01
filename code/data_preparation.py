@@ -23,7 +23,7 @@ from rasterio.plot import show
 from rasterstats import zonal_stats
 
 import os
-os.chdir(".../data")
+os.chdir(".../data") # insert your folder path here.
 
 ### Reading files
 # Boundary of the area of interest
