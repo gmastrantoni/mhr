@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on the development of multi-platform data integration techniques
 - 📫 How to reach me: giandomenico.mastrantoni@uniroma1.it
 
-***Multi-Risk Ranking for Ground Instabilities of Urban Assets***
+***Multi-Risk Ranking for Ground Instabilities***
 
 **Description:**
-The "mhr" repository is a comprehensive implementation of the research paper titled "Multi-Risk Ranking for Ground Instabilities through Geohazards and InSAR Ground Motion Data Fusion to Enhance Urban Resilience." The goal of this project is to automate the process of multi-risk ranking for ground instabilities of urban assets, thereby enhancing urban resilience to geohazards.
+The "mhr" repository is a comprehensive implementation of the research paper titled "Multi-Risk Ranking for Ground Instabilities through Geohazards and InSAR Ground Motion Data Fusion to Enhance Urban Resilience." The goal of this project is to automate the process of multi-risk ranking for ground instabilities (*i.e., Landslides, Sinkholes, and Subsidence*) of urban assets, thereby enhancing urban resilience to geohazards.
 
 **How to cite:**
 [Mastrantoni G., Masciulli C., Marini R., Esposito C., Scarascia Mugnozza G., Mazzanti P. (Submitted). Multi-Risk Ranking for Ground Instabilities through Geohazards and InSAR Ground Motion Data Fusion to Enhance Urban Resilience. Geomatics, Natural Hazards and Risk, Volume, Page Numbers. DOI](https://doi.org/DOI)
@@ -23,7 +23,6 @@ The "mhr" repository welcomes contributions from the research community and coll
 - Automated multi-risk ranking algorithms for ground instabilities in urban assets.
 - Integration of geohazards and InSAR ground motion data for comprehensive risk assessment.
 - Data preprocessing and fusion techniques to handle large-scale input data.
-- Visualization tools to present results and findings in a clear and insightful manner.
 
 **Usage:**
 Researchers and practitioners in the field of geohazards, urban planning, disaster management, and geospatial analysis can utilize this repository as a resource for automating the assessment of ground instabilities in urban areas. By integrating multiple risk factors and leveraging the power of InSAR data, this project aims to enhance urban resilience and decision-making processes.
