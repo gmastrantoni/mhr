@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmastrantoni
 - 👀 I’m interested in geohazards risk analysis
 - 🌱 I’m currently learning machine learning for geospatial data science
-- 💞️ I’m looking to collaborate on the development of multi-platform data integration techniques
+- 💞️ I’m looking to collaborate on the development of multi-hazard scenarios.
 - 📫 How to reach me: giandomenico.mastrantoni@uniroma1.it
 
 ***Multi-Risk Ranking for Ground Instabilities***
