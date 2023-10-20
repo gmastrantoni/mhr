@@ -7,7 +7,7 @@
 ***Multi-Risk Ranking for Ground Instabilities***
 
 **Description:**
-The "mhr" repository is a comprehensive implementation of the research paper titled "Multi-Risk Ranking for Ground Instabilities through Geohazards and InSAR Ground Motion Data Fusion to Enhance Urban Resilience." The goal of this project is to automate the process of multi-risk ranking for ground instabilities (*i.e., Landslides, Sinkholes, and Subsidence*) of urban assets, thereby enhancing urban resilience to geohazards.
+The "mhr" repository is a comprehensive implementation of the research paper titled "A Novel Model for Multi-Risk Ranking of Buildings at City Level: The Test Site of Rome, Italy." The goal of this project is to automate the process of multi-risk ranking for ground instabilities (*i.e., Landslides, Sinkholes, and Subsidence*) of urban assets, thereby enhancing urban resilience to geohazards.
 
 **How to cite:**
 [Mastrantoni G., Masciulli C., Marini R., Esposito C., Scarascia Mugnozza G., Mazzanti P. (Submitted). Multi-Risk Ranking for Ground Instabilities through Geohazards and InSAR Ground Motion Data Fusion to Enhance Urban Resilience. Geomatics, Natural Hazards and Risk, Volume, Page Numbers. DOI](https://doi.org/DOI)
