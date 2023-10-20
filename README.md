@@ -28,4 +28,4 @@ The "mhr" repository welcomes contributions from the research community and coll
 Researchers and practitioners in the field of geohazards, urban planning, disaster management, and geospatial analysis can utilize this repository as a resource for automating the assessment of ground instabilities in urban areas. By integrating multiple risk factors and leveraging the power of InSAR data, this project aims to enhance urban resilience and decision-making processes.
 
 **License:**
-The "mhr" repository is made available under an open-source license, allowing the community to freely use, modify, and distribute the codebase while complying with the licensing terms.
+The "mhr" repository is made available under the open-source license CC BY-NC-ND 4.0 DEED.
