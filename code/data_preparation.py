@@ -1,3 +1,4 @@
+@author: giandomenico mastrantoni - giandomenico.mastrantoni@uniroma1.it
 #%% IMPORT
 import geopandas as gpd
 # from shapely.ops import unary_union
