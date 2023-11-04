@@ -10,7 +10,7 @@
 The "mhr" repository is a comprehensive implementation of the research paper titled "A Novel Model for Multi-Risk Ranking of Buildings at City Level: The Test Site of Rome, Italy." The goal of this project is to automate the process of multi-risk ranking for ground instabilities (*i.e., Landslides, Sinkholes, and Subsidence*) of urban assets, thereby enhancing urban resilience to geohazards.
 
 **How to cite:**
-[Mastrantoni G., Masciulli C., Marini R., Esposito C., Scarascia Mugnozza G., Mazzanti P. (Submitted). A Novel Model for Multi-Risk Ranking of Buildings at City Level: The Test Site of Rome, Italy. Geomatics, Natural Hazards and Risk, Volume, Page Numbers. DOI](https://doi.org/10.1080/19475705.2023.2275541)
+[Mastrantoni G., Masciulli C., Marini R., Esposito C., Scarascia Mugnozza G., Mazzanti P. (2023). A Novel Model for Multi-Risk Ranking of Buildings at City Level based on Open Data: The Test Site of Rome, Italy. Geomatics, Natural Hazards and Risk, 14:1, 2275541. DOI:10.1080/19475705.2023.2275541](https://doi.org/10.1080/19475705.2023.2275541)
 The paper focuses on the fusion of geohazards and Interferometric Synthetic Aperture Radar (InSAR) ground motion data to assess and rank multiple risks associated with ground instabilities in urban environments.
 
 **Data Storage:**
